@@ -7,5 +7,5 @@ Purple
 White and Black
 Last color from remote repo
 last color from local repo
-gitMaroon
+Maroon
 Any color
