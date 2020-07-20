@@ -2,4 +2,8 @@ red
 Hello Color
 New Color
 Rainbow
+<<<<<<< HEAD
 Brown
+=======
+Bebe
+>>>>>>> a532aa63d817d9d5b29e7f4f79751047e45dee53
