@@ -5,3 +5,4 @@ Rainbow
 Bebe
 Purple
 White and Black
+Last color from remote repo
