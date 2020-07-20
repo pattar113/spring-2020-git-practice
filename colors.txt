@@ -3,3 +3,4 @@ Hello Color
 New Color
 Rainbow
 Bebe
+Purple
