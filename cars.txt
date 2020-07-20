@@ -6,12 +6,9 @@ Jaguar
 Bentley
 Mercedes
 Audi
-<<<<<<< HEAD
 Hyundai
 Nissan
 Lexus
 Ferrari
-=======
 Jeep
 Ford
->>>>>>> c995cf6f5b6966bff5cc2305631a1771afd108d4
