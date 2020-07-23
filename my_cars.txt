@@ -13,8 +13,8 @@ Ferrari
 Jeep
 Ford
 RangeRover
-<<<<<<< HEAD
+
 Bentley
-=======
+
 AlfaRomeo
->>>>>>> 952391b0b485e1c500a18472e3804e8b81902b11
+
