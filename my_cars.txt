@@ -18,8 +18,8 @@ Bentley
 
 AlfaRomeo
 
-<<<<<<< HEAD
+
 Suzuki
-=======
+
 Subaru
->>>>>>> 91a6f910ec9a1a8c147c5df728ef46045af5852b
+
